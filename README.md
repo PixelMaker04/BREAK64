@@ -1,5 +1,5 @@
 # BREAK64
-A break-out clone coded in Commodore64 Basic
+An old work-in-progress break-out clone coded in Commodore64 Basic
 
 # Controlls
 This program uses Joystick port 2
